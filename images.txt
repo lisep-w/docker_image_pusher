@@ -8,3 +8,4 @@ nacos/nacos-server:v2.2.0
 nacos/nacos-server:v2.0.3
 redis:6.2.11
 nginx:1.22
+openmetadata/db:1.5.2
