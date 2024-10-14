@@ -1,1 +1,2 @@
 registry:2
+nginx:latest
