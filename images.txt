@@ -1,2 +1,2 @@
-registry:2
-nginx:latest
+openebs/provisioner-localpv:2.10.1
+kubesphere/ks-installer:v3.1.1
