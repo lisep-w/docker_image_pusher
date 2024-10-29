@@ -1,1 +1,1 @@
-truevoly/oracle-12c
+openjdk17
