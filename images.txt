@@ -1,1 +1,1 @@
-openjdk17
+madiva/openjdk17
