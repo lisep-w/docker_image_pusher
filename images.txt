@@ -1,1 +1,2 @@
-openjdk:17
+fluent/fluent-bit:2.0.6 --platform arm64
+busybox:stable --platform arm64
