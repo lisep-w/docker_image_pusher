@@ -1,2 +1,2 @@
-fluent/fluent-bit:2.0.6 --platform arm64
-busybox:stable --platform arm64
+qdrant/qdrant
+zilliz/attu:v2.4
