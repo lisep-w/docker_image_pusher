@@ -1,2 +1,1 @@
-qdrant/qdrant
-zilliz/attu:v2.4
+coredns/coredns:1.6.9
