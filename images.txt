@@ -1,1 +1,1 @@
-lexpredict/tika-server
+logicalspark/docker-tikaserver
